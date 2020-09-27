@@ -6,9 +6,9 @@ info:
 servers:
 - url: https://proejct-example.com/v1
 tags:
-- name: pet
+- name: university
   description: Everything about your Pets
-- name: store
+- name: company
   description: Access to Petstore orders
 - name: user
   description: Operations about user
